@@ -20,6 +20,7 @@ $(function () {
         arrows: false,
         dots: true,
     });
+    
     $('.products__container').slick({
         dots: true,
         slidesToShow: 5,
